@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="square.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="square0000" x="0" y="0" width="1366" height="608" frameX="0" frameY="-63" frameWidth="1368" frameHeight="768"/>
+	<SubTexture name="square0001" x="1366" y="0" width="1367" height="583" frameX="-1" frameY="-100" frameWidth="1368" frameHeight="768"/>
+	<SubTexture name="square0002" x="0" y="608" width="1366" height="579" frameX="0" frameY="-110" frameWidth="1368" frameHeight="768"/>
+	<SubTexture name="square0003" x="1366" y="608" width="1366" height="556" frameX="0" frameY="-125" frameWidth="1368" frameHeight="768"/>
+	<SubTexture name="square0004" x="0" y="1187" width="1366" height="768" frameX="0" frameY="0" frameWidth="1368" frameHeight="768"/>
+	<SubTexture name="square0005" x="1366" y="1187" width="1366" height="552" frameX="0" frameY="-125" frameWidth="1368" frameHeight="768"/>
+	<SubTexture name="square0006" x="0" y="1955" width="1366" height="583" frameX="0" frameY="-102" frameWidth="1368" frameHeight="768"/>
+	<SubTexture name="square0007" x="1366" y="1955" width="1366" height="591" frameX="0" frameY="-98" frameWidth="1368" frameHeight="768"/>
+	<SubTexture name="square0008" x="1366" y="1955" width="1366" height="591" frameX="0" frameY="-98" frameWidth="1368" frameHeight="768"/>
+</TextureAtlas>
